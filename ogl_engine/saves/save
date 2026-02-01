@@ -1,0 +1,8 @@
+cam_pos -1.3554 5.55485 -8.497
+cam_rot -0.596799 -9.43023
+sky_color 0.22883 0.411456 0.52451
+horizont_color 0.573529 0.522924 0.522924
+sphere 0 0 -0.5 0.4 0 0 1 0 0 0 0 0
+sphere 4 0 -0.5 1.4 0 1 0 0 0 0 0 1
+trimesh models/box.obj 0 0 0 0 0 0 1 1 1 0.76 0 0 0 0 0 0 0
+trimesh models/cylinder.obj 0 0 0 0 0 0 1 1 1 0 1 0 0 0 0 0 0
